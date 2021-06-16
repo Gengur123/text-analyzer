@@ -1,11 +1,11 @@
 
-# _Arthur Lee's Portfolio Website_
+# _Arthur Lee's text analyzer Website_
 
 #### _A simple portfolio website about Arthur Lee_
 
 #### By _**Arthur Lee**_
 
-#### [Git Hub Pages Link](https://gengur123.github.io/my-portfolios/)
+
 ## Technologies Used
 
 * _HTML_
